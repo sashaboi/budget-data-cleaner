@@ -1,0 +1,120 @@
+{
+  "name": "Mississauga Library",
+  "type": "department",
+  "children": [
+    {
+      "name": "Operating",
+      "type": "dataset",
+      "children": [
+        {
+          "name": "Labour",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 22632 },
+            { "name": "2024", "type": "year", "amount": 24723 },
+            { "name": "2025", "type": "year", "amount": 24994 }
+          ]
+        },
+        {
+          "name": "Staff Development",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 135 },
+            { "name": "2024", "type": "year", "amount": 184 },
+            { "name": "2025", "type": "year", "amount": 196 }
+          ]
+        },
+        {
+          "name": "Communication",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 85 },
+            { "name": "2024", "type": "year", "amount": 58 },
+            { "name": "2025", "type": "year", "amount": 64 }
+          ]
+        },
+        {
+          "name": "Transportation",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 68 },
+            { "name": "2024", "type": "year", "amount": 45 },
+            { "name": "2025", "type": "year", "amount": 45 }
+          ]
+        },
+        {
+          "name": "Occupancy & Utilities",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 1415 },
+            { "name": "2024", "type": "year", "amount": 1788 },
+            { "name": "2025", "type": "year", "amount": 1894 }
+          ]
+        },
+        {
+          "name": "Equipment & Maintenance",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 133 },
+            { "name": "2024", "type": "year", "amount": 1041 },
+            { "name": "2025", "type": "year", "amount": 1111 }
+          ]
+        },
+        {
+          "name": "Contractor & Professional Services",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 109 },
+            { "name": "2024", "type": "year", "amount": 194 },
+            { "name": "2025", "type": "year", "amount": 194 }
+          ]
+        },
+        {
+          "name": "Advertising & Promotion",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 80 },
+            { "name": "2024", "type": "year", "amount": 67 },
+            { "name": "2025", "type": "year", "amount": 67 }
+          ]
+        },
+        {
+          "name": "Materials & Supplies",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 5017 },
+            { "name": "2024", "type": "year", "amount": 5116 },
+            { "name": "2025", "type": "year", "amount": 2835 }
+          ]
+        },
+        {
+          "name": "Transfers to Reserves & Reserve Funds",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 1000 },
+            { "name": "2024", "type": "year", "amount": 0 },
+            { "name": "2025", "type": "year", "amount": 77 }
+          ]
+        },
+        {
+          "name": "Other Expenses",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 588 },
+            { "name": "2024", "type": "year", "amount": 118 },
+            { "name": "2025", "type": "year", "amount": 143 }
+          ]
+        },
+        {
+          "name": "Debt Principal & Interest",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 0 },
+            { "name": "2024", "type": "year", "amount": 3134 },
+            { "name": "2025", "type": "year", "amount": 3361 }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "City of Mississauga",
+  "type": "root",
+  "fiscal_year": 2026,
+  "children": [
+    { "name": "Corporate Transactions", "type": "department", "amount": 61319, "children": [] },
+    { "name": "Facilities & Property Management", "type": "department", "amount": 38744, "children": [] },
+    { "name": "Fire & Emergency Services", "type": "department", "amount": 176954, "children": [] },
+    { "name": "General Government", "type": "department", "amount": 64767, "children": [] },
+    { "name": "Information Technology", "type": "department", "amount": 40585, "children": [] },
+    { "name": "Mayor & Members of Council", "type": "department", "amount": 5676, "children": [] },
+    { "name": "Mississauga Library", "type": "department", "amount": 34673, "children": [] },
+    { "name": "Parks, Forestry & Environment", "type": "department", "amount": 52858, "children": [] },
+    { "name": "Planning & Building", "type": "department", "amount": 13852, "children": [] },
+    { "name": "Recreation & Culture", "type": "department", "amount": 51252, "children": [] },
+    { "name": "Regulatory Services", "type": "department", "amount": 11717, "children": [] },
+    { "name": "Roads", "type": "department", "amount": 102152, "children": [] },
+    { "name": "Transit", "type": "department", "amount": 140709, "children": [] }
+  ]
+}

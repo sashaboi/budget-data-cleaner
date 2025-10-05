@@ -1,0 +1,93 @@
+{
+  "name": "Information Technology",
+  "type": "department",
+  "children": [
+    {
+      "name": "Operating",
+      "type": "dataset",
+      "children": [
+        {
+          "name": "Labour",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 25809 },
+            { "name": "2024", "type": "year", "amount": 27087 },
+            { "name": "2025", "type": "year", "amount": 27638 }
+          ]
+        },
+        {
+          "name": "Staff Development",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 78 },
+            { "name": "2024", "type": "year", "amount": 71 },
+            { "name": "2025", "type": "year", "amount": 71 }
+          ]
+        },
+        {
+          "name": "Communication",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 474 },
+            { "name": "2024", "type": "year", "amount": 605 },
+            { "name": "2025", "type": "year", "amount": 605 }
+          ]
+        },
+        {
+          "name": "Transportation",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 25 },
+            { "name": "2024", "type": "year", "amount": 27 },
+            { "name": "2025", "type": "year", "amount": 27 }
+          ]
+        },
+        {
+          "name": "Equipment & Maintenance",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 9830 },
+            { "name": "2024", "type": "year", "amount": 11433 },
+            { "name": "2025", "type": "year", "amount": 12604 }
+          ]
+        },
+        {
+          "name": "Contractor & Professional Services",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 40 },
+            { "name": "2024", "type": "year", "amount": 230 },
+            { "name": "2025", "type": "year", "amount": 190 }
+          ]
+        },
+        {
+          "name": "Materials & Supplies",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 58 },
+            { "name": "2024", "type": "year", "amount": 66 },
+            { "name": "2025", "type": "year", "amount": 66 }
+          ]
+        },
+        {
+          "name": "Other Expenses",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": -1353 },
+            { "name": "2024", "type": "year", "amount": 172 },
+            { "name": "2025", "type": "year", "amount": 162 }
+          ]
+        },
+        {
+          "name": "Debt Principal & Interest",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 0 },
+            { "name": "2024", "type": "year", "amount": 618 },
+            { "name": "2025", "type": "year", "amount": 663 }
+          ]
+        }
+      ]
+    }
+  ]
+}

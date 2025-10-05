@@ -1,0 +1,129 @@
+{
+  "name": "Parks, Forestry & Environment",
+  "type": "department",
+  "children": [
+    {
+      "name": "Operating",
+      "type": "dataset",
+      "children": [
+        {
+          "name": "Labour",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 34725 },
+            { "name": "2024", "type": "year", "amount": 34493 },
+            { "name": "2025", "type": "year", "amount": 36277 }
+          ]
+        },
+        {
+          "name": "Staff Development",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 162 },
+            { "name": "2024", "type": "year", "amount": 121 },
+            { "name": "2025", "type": "year", "amount": 121 }
+          ]
+        },
+        {
+          "name": "Communication",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 187 },
+            { "name": "2024", "type": "year", "amount": 134 },
+            { "name": "2025", "type": "year", "amount": 172 }
+          ]
+        },
+        {
+          "name": "Transportation",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 2650 },
+            { "name": "2024", "type": "year", "amount": 2110 },
+            { "name": "2025", "type": "year", "amount": 2565 }
+          ]
+        },
+        {
+          "name": "Occupancy & Utilities",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 3731 },
+            { "name": "2024", "type": "year", "amount": 3340 },
+            { "name": "2025", "type": "year", "amount": 3437 }
+          ]
+        },
+        {
+          "name": "Equipment & Maintenance",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 497 },
+            { "name": "2024", "type": "year", "amount": 160 },
+            { "name": "2025", "type": "year", "amount": 214 }
+          ]
+        },
+        {
+          "name": "Contractor & Professional Services",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 6444 },
+            { "name": "2024", "type": "year", "amount": 5724 },
+            { "name": "2025", "type": "year", "amount": 6098 }
+          ]
+        },
+        {
+          "name": "Advertising & Promotion",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 67 },
+            { "name": "2024", "type": "year", "amount": 54 },
+            { "name": "2025", "type": "year", "amount": 54 }
+          ]
+        },
+        {
+          "name": "Materials & Supplies",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 3833 },
+            { "name": "2024", "type": "year", "amount": 2710 },
+            { "name": "2025", "type": "year", "amount": 3308 }
+          ]
+        },
+        {
+          "name": "Grants to Third Parties",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 33 },
+            { "name": "2024", "type": "year", "amount": 100 },
+            { "name": "2025", "type": "year", "amount": 125 }
+          ]
+        },
+        {
+          "name": "Transfers to Reserves & Reserve Funds",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 1138 },
+            { "name": "2024", "type": "year", "amount": 996 },
+            { "name": "2025", "type": "year", "amount": 686 }
+          ]
+        },
+        {
+          "name": "Other Expenses",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 272 },
+            { "name": "2024", "type": "year", "amount": 134 },
+            { "name": "2025", "type": "year", "amount": 134 }
+          ]
+        },
+        {
+          "name": "Debt Principal & Interest",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 0 },
+            { "name": "2024", "type": "year", "amount": 2582 },
+            { "name": "2025", "type": "year", "amount": 3009 }
+          ]
+        }
+      ]
+    }
+  ]
+}

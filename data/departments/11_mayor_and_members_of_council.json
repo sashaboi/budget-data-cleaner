@@ -1,0 +1,102 @@
+{
+  "name": "Mayor & Members of Council",
+  "type": "department",
+  "children": [
+    {
+      "name": "Operating",
+      "type": "dataset",
+      "children": [
+        {
+          "name": "Labour",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 4649 },
+            { "name": "2024", "type": "year", "amount": 4683 },
+            { "name": "2025", "type": "year", "amount": 4832 }
+          ]
+        },
+        {
+          "name": "Staff Development",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 44 },
+            { "name": "2024", "type": "year", "amount": 7 },
+            { "name": "2025", "type": "year", "amount": 7 }
+          ]
+        },
+        {
+          "name": "Communication",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 102 },
+            { "name": "2024", "type": "year", "amount": 105 },
+            { "name": "2025", "type": "year", "amount": 105 }
+          ]
+        },
+        {
+          "name": "Transportation",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 210 },
+            { "name": "2024", "type": "year", "amount": 195 },
+            { "name": "2025", "type": "year", "amount": 195 }
+          ]
+        },
+        {
+          "name": "Occupancy & Utilities",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 2 },
+            { "name": "2024", "type": "year", "amount": 0 },
+            { "name": "2025", "type": "year", "amount": 0 }
+          ]
+        },
+        {
+          "name": "Equipment & Maintenance",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 20 },
+            { "name": "2024", "type": "year", "amount": 1 },
+            { "name": "2025", "type": "year", "amount": 1 }
+          ]
+        },
+        {
+          "name": "Advertising & Promotion",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 11 },
+            { "name": "2024", "type": "year", "amount": 0 },
+            { "name": "2025", "type": "year", "amount": 0 }
+          ]
+        },
+        {
+          "name": "Materials & Supplies",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 177 },
+            { "name": "2024", "type": "year", "amount": 446 },
+            { "name": "2025", "type": "year", "amount": 401 }
+          ]
+        },
+        {
+          "name": "Transfers to Reserves & Reserve Funds",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 45 },
+            { "name": "2024", "type": "year", "amount": 0 },
+            { "name": "2025", "type": "year", "amount": 0 }
+          ]
+        },
+        {
+          "name": "Other Expenses",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 45 },
+            { "name": "2024", "type": "year", "amount": 1 },
+            { "name": "2025", "type": "year", "amount": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Fire & Emergency Services",
+  "type": "department",
+  "children": [
+    {
+      "name": "Operating",
+      "type": "dataset",
+      "children": [
+        {
+          "name": "Labour",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 122787 },
+            { "name": "2024", "type": "year", "amount": 133648 },
+            { "name": "2025", "type": "year", "amount": 141137 }
+          ]
+        },
+        {
+          "name": "Staff Development",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 431 },
+            { "name": "2024", "type": "year", "amount": 417 },
+            { "name": "2025", "type": "year", "amount": 417 }
+          ]
+        },
+        {
+          "name": "Communication",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 625 },
+            { "name": "2024", "type": "year", "amount": 571 },
+            { "name": "2025", "type": "year", "amount": 571 }
+          ]
+        },
+        {
+          "name": "Transportation",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 2340 },
+            { "name": "2024", "type": "year", "amount": 1810 },
+            { "name": "2025", "type": "year", "amount": 2110 }
+          ]
+        },
+        {
+          "name": "Occupancy & Utilities",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 1540 },
+            { "name": "2024", "type": "year", "amount": 1247 },
+            { "name": "2025", "type": "year", "amount": 1421 }
+          ]
+        },
+        {
+          "name": "Equipment & Maintenance",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 593 },
+            { "name": "2024", "type": "year", "amount": 587 },
+            { "name": "2025", "type": "year", "amount": 587 }
+          ]
+        },
+        {
+          "name": "Contractor & Professional Services",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 353 },
+            { "name": "2024", "type": "year", "amount": 105 },
+            { "name": "2025", "type": "year", "amount": 105 }
+          ]
+        },
+        {
+          "name": "Advertising & Promotion",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 108 },
+            { "name": "2024", "type": "year", "amount": 55 },
+            { "name": "2025", "type": "year", "amount": 55 }
+          ]
+        },
+        {
+          "name": "Materials & Supplies",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 1610 },
+            { "name": "2024", "type": "year", "amount": 1335 },
+            { "name": "2025", "type": "year", "amount": 1355 }
+          ]
+        },
+        {
+          "name": "Transfers to Reserves & Reserve Funds",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 20068 },
+            { "name": "2024", "type": "year", "amount": 26432 },
+            { "name": "2025", "type": "year", "amount": 33251 }
+          ]
+        },
+        {
+          "name": "Other Expenses",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 955 },
+            { "name": "2024", "type": "year", "amount": 436 },
+            { "name": "2025", "type": "year", "amount": 477 }
+          ]
+        },
+        {
+          "name": "Debt Principal & Interest",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 0 },
+            { "name": "2024", "type": "year", "amount": 3505 },
+            { "name": "2025", "type": "year", "amount": 3586 }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Regulatory Services",
+  "type": "department",
+  "children": [
+    {
+      "name": "Operating",
+      "type": "dataset",
+      "children": [
+        {
+          "name": "Labour",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 15899 },
+            { "name": "2024", "type": "year", "amount": 17628 },
+            { "name": "2025", "type": "year", "amount": 23916 }
+          ]
+        },
+        {
+          "name": "Staff Development",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 37 },
+            { "name": "2024", "type": "year", "amount": 76 },
+            { "name": "2025", "type": "year", "amount": 126 }
+          ]
+        },
+        {
+          "name": "Communication",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 222 },
+            { "name": "2024", "type": "year", "amount": 161 },
+            { "name": "2025", "type": "year", "amount": 161 }
+          ]
+        },
+        {
+          "name": "Transportation",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 576 },
+            { "name": "2024", "type": "year", "amount": 716 },
+            { "name": "2025", "type": "year", "amount": 729 }
+          ]
+        },
+        {
+          "name": "Occupancy & Utilities",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 65 },
+            { "name": "2024", "type": "year", "amount": 86 },
+            { "name": "2025", "type": "year", "amount": 78 }
+          ]
+        },
+        {
+          "name": "Equipment & Maintenance",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 150 },
+            { "name": "2024", "type": "year", "amount": 104 },
+            { "name": "2025", "type": "year", "amount": 253 }
+          ]
+        },
+        {
+          "name": "Contractor & Professional Services",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 829 },
+            { "name": "2024", "type": "year", "amount": 603 },
+            { "name": "2025", "type": "year", "amount": 593 }
+          ]
+        },
+        {
+          "name": "Advertising & Promotion",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 25 },
+            { "name": "2024", "type": "year", "amount": 55 },
+            { "name": "2025", "type": "year", "amount": 55 }
+          ]
+        },
+        {
+          "name": "Materials & Supplies",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 383 },
+            { "name": "2024", "type": "year", "amount": 379 },
+            { "name": "2025", "type": "year", "amount": 463 }
+          ]
+        },
+        {
+          "name": "Transfers to Reserves & Reserve Funds",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 1269 },
+            { "name": "2024", "type": "year", "amount": 0 },
+            { "name": "2025", "type": "year", "amount": 0 }
+          ]
+        },
+        {
+          "name": "Other Expenses",
+          "type": "category",
+          "children": [
+            { "name": "2023", "type": "year", "amount": 880 },
+            { "name": "2024", "type": "year", "amount": 1108 },
+            { "name": "2025", "type": "year", "amount": 815 }
+          ]
+        }
+      ]
+    }
+  ]
+}
